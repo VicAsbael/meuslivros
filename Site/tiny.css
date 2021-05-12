@@ -1,0 +1,109 @@
+#image{
+                position: absolute;
+                z-index: 1000;
+                width: 100%;
+                margin-top: -8px;
+                padding: 0px;
+                height: 54%;
+                margin-left: -8px;
+                background-image: linear-gradient( to bottom, #1C3CC8, #A028AD, #A028AD );
+            }
+            .ui{
+                position: relative;
+                z-index: 2000;
+                width: 100%;
+                padding: 8px;
+                height: 7%;
+                background-color: black; 
+                margin-left: -8px;
+
+            }
+            #ai{ 
+                position: relative;
+                width: 100%;
+                padding: 8;
+                height: 7%;
+                color: white;
+                font-size: 23px;
+                margin-left: -8px;
+                margin-top: 1px;
+            }
+            
+            h1{
+                position: relative;
+                z-index: 3000;
+                color: white;
+                font-size: 20px;
+                font-family: calibri;
+                background-color: #EB1A3A;
+                padding: 6% 3.7% 6% 4.8%;
+                width: 95%;
+                margin-top: 7.2%;
+                margin-left: -8px;
+                
+                background-image: linear-gradient( to right, #EB1A3A, #EB1A3A, #EB1A3A, #EB1A3A, #EB1A3A, #EB403A, #EB403A );
+                
+            }
+            
+            #espirito{
+                z-index: 4000;
+                position: relative;
+                margin-left: auto;
+    margin-right: auto;
+                margin-top: -333px;
+                background-color: #363636;
+                width: 150px;
+                height: 345%;
+                padding: 15px 15px 90px 15px;
+            }
+            #poemas{
+                z-index: 5000;
+                position: relative;
+                margin-left: auto;
+    margin-right: auto;
+                margin-top: -63px;
+                background-color: #363636;
+                width: 150px;
+                height: 345%;
+                padding: 15px 15px 90px 15px;
+            }ul{
+                z-index: 10000;
+                position: relative;
+                margin-top: ;
+                height: 500px;
+                position: relative;
+margin-left: 25%;
+    margin-right: auto;
+    position: relative;
+    max-width: 58%;
+    width: calc(100% - 40px);
+                
+            }li{
+                position: relative;
+                height: 60px;
+                padding: 0%;
+            }
+        
+            a{
+                position: absolute;
+                width: 80%;
+                height: 13%;
+                margin-top: 225px;
+                margin-left: -83%;
+                border-radius: 5px;
+                background-color: #FF6D05;
+                text-decoration: none;
+                font-family: Adobe Fan Heiti Std;
+                font-size: 18;
+                color: black;
+            }
+            a:hover{
+                background-color: black;
+                color: white;
+            }
+            
+            ul li {
+    display: inline-block;
+            }p{
+                color: white;
+            }
